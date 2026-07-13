@@ -2734,3 +2734,18 @@ body.auto-hide-header .workspace-tab-header-container + .workspace-tab-container
 .editing-toolbar-ai-inline-body .setting-item {
   border-top: 1px solid var(--background-modifier-border-hover);
 }
+
+/* 1. 커서가 해당 줄에 올라가도 <font ...> 와 </font> 태그를 절대 보여주지 않음 */
+.cm-line .cm-html-embed:has(span[style*="color"]),
+.cm-line .cm-entity-name,
+.cm-line .cm-attribute,
+.cm-line .cm-property {
+  display: none !important;
+}
+
+/* 2. 태그가 숨겨지면서 발생하는 텍스트 컴포넌트의 비정상적인 스타일 초기화 방지 */
+.cm-line .cm-html-embed + .cm-text,
+.cm-line .cm-html-embed span {
+  font-family: var(--font-text) !important; /* 미니멀 테마 텍스트 폰트 유지[cite: 8] */
+  font-weight: var(--normal-weight) !important; /* 일반 두께 유지 (원하면 bold로 변경 가능)[cite: 8] */
+}

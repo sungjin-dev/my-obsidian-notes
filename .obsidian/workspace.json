@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "dbfolder:Create a new database table": false,
       "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
