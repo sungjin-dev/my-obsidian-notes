@@ -1,5 +1,8 @@
 [
   "quickadd",
   "github-octokit",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar",
+  "slash-commander",
+  "dataview"
 ]

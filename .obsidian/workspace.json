@@ -11,10 +11,14 @@
             "id": "504c39128b31e9cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL 정리.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "SQL 정리"
             }
           }
         ]
@@ -182,6 +186,11 @@
   },
   "active": "504c39128b31e9cd",
   "lastOpenFiles": [
+    "Pasted image 20260713121306.png",
+    "Pasted image 20260713121243.png",
+    "Pasted image 20260713121006.png",
+    "Pasted image 20260713120948.png",
+    "SQL 정리.md",
     "무제 1.md",
     "20260709.md",
     "1차 학습 진행.md",
