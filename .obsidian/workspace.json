@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6192b29551623a16",
+        "id": "e10b1c0786820736",
         "type": "tabs",
         "children": [
           {
-            "id": "504c39128b31e9cd",
+            "id": "3d5c388bd98eb283",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,14 +185,15 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "504c39128b31e9cd",
+  "active": "3d5c388bd98eb283",
   "lastOpenFiles": [
+    "무제 1.md",
+    "발표준비 질의응답 대비.md",
+    "SQL 정리.md",
     "Pasted image 20260713121306.png",
     "Pasted image 20260713121243.png",
     "Pasted image 20260713121006.png",
     "Pasted image 20260713120948.png",
-    "SQL 정리.md",
-    "무제 1.md",
     "20260709.md",
     "1차 학습 진행.md",
     "환영합니다!.md",

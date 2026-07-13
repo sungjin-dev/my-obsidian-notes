@@ -1,11 +1,16 @@
-
-
-/* 에디팅 툴바가 글자 뒤에 강제로 숨겨놓은 마크다운 formatting 기호(**) 처리 */
-.cm-line:not(.cm-active) .cm-formatting-strong {
-  display: none !important; /* 커서가 다른 줄에 있을 때는 ** 기호를 아예 숨겨버림 */
+/* 1. 에디팅 툴바가 생성한 <font> 태그 안의 텍스트와 기호를 분리합니다 */
+.cm-line span[style*="color"] {
+    /* 이 안의 내용물만 색상을 적용받도록 합니다 */
+    display: inline-block !important;
 }
 
-.cm-line.cm-active .cm-formatting-strong {
-  color: var(--text-faint) !important; /* 내가 편집하려고 클릭했을 때만 ** 기호가 연하게 보임[cite: 8] */
-  opacity: 0.3 !important;
+/* 2. 마크다운 볼드체 기호(**)가 색상 영향을 받지 않도록 강제합니다 */
+.cm-formatting-strong {
+    color: var(--text-faint) !important; /* 기호는 테마 기본 회색으로 고정 */
+    opacity: 0.3 !important;             /* 기호의 투명도를 높여 눈에 띄지 않게 합니다 */
+}
+
+/* 3. 텍스트 자체에는 에디팅 툴바가 지정한 색상이 유지되도록 합니다 */
+.cm-line strong {
+    color: inherit !important;           /* 부모 태그(font태그)의 색상을 그대로 상속 */
 }
