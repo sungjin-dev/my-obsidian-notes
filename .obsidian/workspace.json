@@ -1,38 +1,24 @@
 {
   "main": {
-    "id": "d368552aab4c9af1",
+    "id": "f3f64542a5a9f7bc",
     "type": "split",
     "children": [
       {
-        "id": "e10b1c0786820736",
+        "id": "838328e3d4b6dfd7",
         "type": "tabs",
         "children": [
           {
-            "id": "3d5c388bd98eb283",
+            "id": "5aaa6e196a05cc57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학습 자료 1.md",
+                "file": "1차 학습 진행.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "학습 자료 1"
-            }
-          },
-          {
-            "id": "00356c38131c983e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용)"
+              "title": "1차 학습 진행"
             }
           }
         ]
@@ -41,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4cccfe2778175f2c",
+    "id": "7207809a26dc35b7",
     "type": "split",
     "children": [
       {
-        "id": "88b9915e093942e4",
+        "id": "c512971a80f354fe",
         "type": "tabs",
         "children": [
           {
-            "id": "cd73fe7636826532",
+            "id": "c1c3f852705895f1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +48,7 @@
             }
           },
           {
-            "id": "c791137bbc5a7b40",
+            "id": "a23e47a3140da656",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +65,7 @@
             }
           },
           {
-            "id": "617ed09389507bdf",
+            "id": "3324180a83178c5d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,18 +78,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "d29228b9c1f30f78",
+    "id": "997c7e518a0e87d0",
     "type": "split",
     "children": [
       {
-        "id": "b2c4d174dde0939a",
+        "id": "bdc2deaa3659301f",
         "type": "tabs",
         "children": [
           {
-            "id": "678b7379c8043f77",
+            "id": "64dac986a5fc1180",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -122,7 +108,7 @@
             }
           },
           {
-            "id": "cd58b357f9a7dde8",
+            "id": "7a0800652cf8a16c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -136,7 +122,7 @@
             }
           },
           {
-            "id": "0872a7aae51888bb",
+            "id": "3a43a9d832cc429f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -151,7 +137,7 @@
             }
           },
           {
-            "id": "41397d36af09eb2c",
+            "id": "d84f22680894b1fc",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -165,7 +151,7 @@
             }
           },
           {
-            "id": "1ba26e58a346ac0f",
+            "id": "b29aa38b9f404aa6",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -199,27 +185,15 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "3d5c388bd98eb283",
+  "active": "5aaa6e196a05cc57",
   "lastOpenFiles": [
-    "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md",
-    "발표준비 질의응답 대비.md",
-    "무제 2.md",
-    "무제.md",
-    "무제 1.md",
+    "conflict-files-obsidian-git.md",
     "1차 학습 진행.md",
     "20260709.md",
     "학습 자료 1.md",
-    "환영합니다!.md",
-    "Pasted image 20260716104506.png",
-    "Pasted image 20260716104455.png",
-    "Pasted image 20260715105152.png",
-    "SQL 정리.md",
-    "Pasted image 20260713121306.png",
-    "Pasted image 20260713121243.png",
-    "Pasted image 20260713121006.png",
-    "Pasted image 20260713120948.png",
-    "re.match() vs test().md",
-    "Pasted image 20260710124723.png",
-    "Pasted image 20260707104023.png"
+    "무제.md",
+    "무제 1.md",
+    "발표준비 질의응답 대비.md",
+    "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md"
   ]
 }
