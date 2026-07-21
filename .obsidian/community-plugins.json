@@ -3,5 +3,6 @@
   "github-octokit",
   "obsidian-git",
   "dataview",
-  "dbfolder"
+  "dbfolder",
+  "obsidian-style-settings"
 ]
