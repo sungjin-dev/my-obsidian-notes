@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1차 학습 진행.md",
+                "file": "무제 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1차 학습 진행"
+              "title": "무제 1"
             }
           }
         ]
@@ -185,8 +185,14 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "2961194f6769cbc4",
+  "active": "cd73fe7636826532",
   "lastOpenFiles": [
+    "무제 2.md",
+    "발표준비 질의응답 대비.md",
+    "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md",
+    "환영합니다!.md",
+    "학습 자료 1.md",
+    "1차 학습 진행.md",
     "무제 1.md",
     "YOLO 학습시키기 도전🎃.md",
     "SQL 정리.md",
@@ -200,14 +206,8 @@
     "Pasted image 20260713120948.png",
     "Pasted image 20260710124723.png",
     "Pasted image 20260707135200.png",
-    "환영합니다!.md",
-    "학습 자료 1.md",
-    "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md",
-    "발표준비 질의응답 대비.md",
-    "무제 2.md",
     "무제.md",
     "20260709.md",
-    "1차 학습 진행.md",
     "conflict-files-obsidian-git.md",
     "re.match() vs test().md"
   ]
