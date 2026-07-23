@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1차 학습 진행.md",
+                "file": "발표준비 질의응답 대비.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1차 학습 진행"
+              "title": "발표준비 질의응답 대비"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1차 학습 진행.md",
+                "file": "발표준비 질의응답 대비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1차 학습 진행 의 백링크"
+              "title": "발표준비 질의응답 대비 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1차 학습 진행.md",
+                "file": "발표준비 질의응답 대비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1차 학습 진행 의 나가는 링크"
+              "title": "발표준비 질의응답 대비 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1차 학습 진행.md",
+                "file": "발표준비 질의응답 대비.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1차 학습 진행 의 개요"
+              "title": "발표준비 질의응답 대비 의 개요"
             }
           }
         ]
@@ -187,12 +187,12 @@
   },
   "active": "5aaa6e196a05cc57",
   "lastOpenFiles": [
+    "1차 학습 진행.md",
     "20260709.md",
     "무제.md",
     "무제 1.md",
     "발표준비 질의응답 대비.md",
     "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md",
-    "1차 학습 진행.md",
     "새 텍스트 문서.txt",
     "conflict-files-obsidian-git.md",
     "학습 자료 1.md"
