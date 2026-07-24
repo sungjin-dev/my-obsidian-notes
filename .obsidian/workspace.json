@@ -25,10 +25,14 @@
             "id": "8fa95b5e04aefb80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "무제 2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "무제 2"
             }
           }
         ],
@@ -198,11 +202,14 @@
   },
   "active": "8fa95b5e04aefb80",
   "lastOpenFiles": [
-    "1차 학습 진행.md",
-    "발표준비 질의응답 대비.md",
+    "무제 3.md",
     "무제 1.md",
     "무제 2.md",
+    "발표준비 질의응답 대비.md",
     "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md",
+    "1차 학습 진행.md",
+    "20260709.md",
+    "무제.md",
     "환영합니다!.md",
     "학습 자료 1.md",
     "YOLO 학습시키기 도전🎃.md",
@@ -217,8 +224,6 @@
     "Pasted image 20260713120948.png",
     "Pasted image 20260710124723.png",
     "Pasted image 20260707135200.png",
-    "무제.md",
-    "20260709.md",
     "conflict-files-obsidian-git.md",
     "re.match() vs test().md"
   ]
