@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용)"
             }
+          },
+          {
+            "id": "af73419e7607f3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제 5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,11 +214,12 @@
       "dbfolder:Create a new database table": false
     }
   },
-  "active": "8fa95b5e04aefb80",
+  "active": "af73419e7607f3e7",
   "lastOpenFiles": [
+    "무제 5.md",
+    "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md",
     "무제 4.md",
     "1차 학습 진행.md",
-    "지역경제 성장요인 다중회귀분석(파이선 분석틀 사용).md",
     "무제 2.md",
     "Pasted image 20260724220219 - 복사본.png",
     "Pasted image 20260724220223 - 복사본.png",
